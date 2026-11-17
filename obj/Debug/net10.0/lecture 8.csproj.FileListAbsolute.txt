@@ -1,0 +1,15 @@
+/Users/christinawood/school/C# learning /lecture 8/obj/Debug/net10.0/lecture 8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christinawood/school/C# learning /lecture 8/obj/Debug/net10.0/lecture 8.AssemblyInfoInputs.cache
+/Users/christinawood/school/C# learning /lecture 8/obj/Debug/net10.0/lecture 8.AssemblyInfo.cs
+/Users/christinawood/school/C# learning /lecture 8/obj/Debug/net10.0/lecture 8.csproj.CoreCompileInputs.cache
+/Users/christinawood/school/C# learning /lecture 8/obj/Debug/net10.0/lecture 8.sourcelink.json
+/Users/christinawood/school/C# learning /lecture 8/bin/Debug/net10.0/lecture 8
+/Users/christinawood/school/C# learning /lecture 8/bin/Debug/net10.0/lecture 8.deps.json
+/Users/christinawood/school/C# learning /lecture 8/bin/Debug/net10.0/lecture 8.runtimeconfig.json
+/Users/christinawood/school/C# learning /lecture 8/bin/Debug/net10.0/lecture 8.dll
+/Users/christinawood/school/C# learning /lecture 8/bin/Debug/net10.0/lecture 8.pdb
+/Users/christinawood/school/C# learning /lecture 8/obj/Debug/net10.0/lecture 8.dll
+/Users/christinawood/school/C# learning /lecture 8/obj/Debug/net10.0/refint/lecture 8.dll
+/Users/christinawood/school/C# learning /lecture 8/obj/Debug/net10.0/lecture 8.pdb
+/Users/christinawood/school/C# learning /lecture 8/obj/Debug/net10.0/lecture 8.genruntimeconfig.cache
+/Users/christinawood/school/C# learning /lecture 8/obj/Debug/net10.0/ref/lecture 8.dll

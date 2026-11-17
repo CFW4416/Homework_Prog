@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Goblin",
+    "Health": 50,
+    "Damage": 10,
+    "Type": "Melee"
+  },
+  {
+    "Name": "Dragon",
+    "Health": 500,
+    "Damage": 80,
+    "Type": "Flying"
+  },
+  {
+    "Name": "Skeleton",
+    "Health": 30,
+    "Damage": 15,
+    "Type": "Melee"
+  },
+  {
+    "Name": "Ghost",
+    "Health": 40,
+    "Damage": 25,
+    "Type": "Magic"
+  },
+  {
+    "Name": "Archer",
+    "Health": 60,
+    "Damage": 35,
+    "Type": "Ranged"
+  }
+]
